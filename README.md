@@ -1,4 +1,6 @@
 #Product Comparison Web App
+
+
 This Flask web application allows users to search for products on Amazon and Flipkart, and compares the results based on product details. The app scrapes product information from these e-commerce websites and displays the most relevant products based on user queries.
 
 Features
@@ -17,3 +19,4 @@ templates: Directory containing HTML templates for the application.
 homepage.html: The landing page of the application.
 result.html: Displays the search results.
 contact.html: The contact page.
+
